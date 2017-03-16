@@ -1,0 +1,12 @@
+Homework for Week 8
+Lauren Payne-Riley
+
+Part I: Turf.js was originally used in my midterm to provide a count between a polygon and point data enclosed within.
+
+Part II: Used Cluster Groups on Leaflet to modify the points on intial start-up 
+(this ONLY runs on start-up, not when you click back to the first page. For the purposes of this 
+exercies I thought that was fine to not modify the code to make it always show the clusters)
+
+
+
+Please see Midterm submission for the relevant code :)
